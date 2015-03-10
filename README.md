@@ -1,0 +1,2 @@
+# androidstd
+my android projects
